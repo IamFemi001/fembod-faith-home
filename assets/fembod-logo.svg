@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 110" role="img" aria-labelledby="title">
+<title id="title">FEMBOD Faith Home</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B77B55"/><stop offset="1" stop-color="#D7AD7A"/></linearGradient></defs>
+<circle cx="54" cy="55" r="48" fill="#F8F2E9" stroke="url(#g)" stroke-width="3"/>
+<path d="M28 67 C17 53 21 39 32 37 C39 36 45 43 54 49 C63 43 69 36 77 38 C89 41 91 56 79 68 L54 84 Z" fill="#6B7863"/>
+<circle cx="54" cy="30" r="7" fill="#B77B55"/>
+<path d="M38 46 Q54 33 70 46" fill="none" stroke="#B77B55" stroke-width="3" stroke-linecap="round"/>
+<path d="M54 39 L54 66" stroke="#F8F2E9" stroke-width="3" stroke-linecap="round"/>
+<text x="118" y="51" font-family="Georgia,serif" font-size="39" font-weight="700" letter-spacing="1" fill="#272C28">FEMBOD</text>
+<text x="120" y="80" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="4" fill="#8B6249">FAITH HOME</text>
+</svg>
